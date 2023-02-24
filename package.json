@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemeSoft/Pure-NodeJS-Portfolio.git"
+  },
+  "author": "Dwip Sarker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemeSoft/Pure-NodeJS-Portfolio/issues"
+  },
+  "homepage": "https://github.com/RemeSoft/Pure-NodeJS-Portfolio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
